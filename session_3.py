@@ -42,9 +42,9 @@ dict1 = {
     'last_name': 'Heydari',
     'age': 26,
     'students': [
-        'Yashar Vedadi',       #1  #-3
-        'Mahan Piri',          #2  #-2
-        'Amir Abas',           #3  #-1
+        'Yashar Vedadi',       #0  #-3
+        'Mahan Piri',          #1  #-2
+        'Amir Abas',           #2  #-1
     ],
     'licence': True,
 }
