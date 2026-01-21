@@ -49,14 +49,13 @@ dict1 = {
     'licence': True,
 }
 
-errors= {
+errors = {
     404: 'Page Not found',
     401: 'Denied',
     403: 'You are Persian',
 }
 
 ## Methods ##
-
 name = 'mohammad heydari'
 print(name.title())
 
