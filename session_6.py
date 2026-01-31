@@ -25,5 +25,15 @@ while tries < 9:
 else:
     print('Connection Failed')
 
-
 ## Function (def)
+def f(x):  # Bazgashti --> Return
+    return x + 1
+
+def addition(x, y):
+    return x + y
+
+def connect():  # Bazgashti Nist
+    print('Connected To Server. . .')
+
+
+addition(5, 4)
