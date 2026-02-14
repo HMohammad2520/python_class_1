@@ -1,8 +1,9 @@
 ## Condition ##
-os = input('Enter os: ')  # Baraye Daryafte Voroodi
+import sys
+os = sys.platform
 
 
-if os == 'windows' :
+if os == 'win32' :
     print('OS is windows opening myComputer. . . ')
 
 elif os == 'linux':
